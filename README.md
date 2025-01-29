@@ -1,12 +1,9 @@
 ## 👨‍💻 About Me
----
-Shubham Adlinge
+<h4>Shubham Adlinge</h4> 
 I'm a DevOps Engineer with a passion for cloud computing, automation, and building scalable applications. I focus on improving CI/CD pipelines, containerization, and using infrastructure as code to make systems more efficient and reliable. I'm always learning new technologies and love working with great teams to deliver projects that make a real impact. I enjoy finding solutions that help businesses grow and improve their tech.
 
-<img align="right" src="https://www.shutterstock.com/shutterstock/videos/3575693171/thumb/12.jpg?ip=x480" alt="DevOps Diagram" width="480">
+---
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamadlinge" /> </p>
 
 - 🌱 I’m currently learning **Azure, GCP, Python, Monitoring & Logging (Prometheus, Grafana)**
 
@@ -14,16 +11,20 @@ I'm a DevOps Engineer with a passion for cloud computing, automation, and buildi
 
 - 📫 How to reach me **shubhamadlinge2001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham adlinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham adlinge" height="30" width="40" /></a>
-</p>
+## 🌐 Connect with Me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamadlinge&show_icons=true&locale=en&layout=compact" alt="shubhamadlinge" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-adlinge/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamadlinge&show_icons=true&locale=en" alt="shubhamadlinge" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamadlinge&" alt="shubhamadlinge" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamadlinge&show_icons=true&locale=en&layout=compact" alt="shubhamadlinge" width="400" height="170" style="margin-right: 10px;" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamadlinge&show_icons=true&locale=en" alt="shubhamadlinge" width="400" height="170" style="margin-bottom: 10px;" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamadlinge&" alt="shubhamadlinge" width="400" height="170" style="margin-top: 10px;" /></p>
+
+
+---
 
 <h2>🛠️ Tools & Technologies</h2>
 <p>Here are some of the key tools and technologies I work with:</p>
@@ -44,5 +45,25 @@ I'm a DevOps Engineer with a passion for cloud computing, automation, and buildi
   </tr>
 </table>
 
+---
 
+![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
+
+---
+<picture>
+  <!-- Dark mode image -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  
+  <!-- Light mode image -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  
+  <!-- Default image (if no preference is set) -->
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+ 
+--- 
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shubhamadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamadlinge" /> </p>
 
