@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Adlinge</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
-
+<br>
 <img align="right" src="https://www.shutterstock.com/shutterstock/videos/3575693171/thumb/12.jpg?ip=x480" alt="DevOps Diagram" width="480">
 
 
