@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamadlinge" /> </p>
 
-- 🌱 I’m currently learning **DevOps Tools, Azure, GCP, Python, Monitoring & Logging (Prometheus, Grafana)**
+- 🌱 I’m currently learning **Azure, GCP, Python, Monitoring & Logging (Prometheus, Grafana)**
 
-- 💬 Ask me about **Docker, Terraform, Ansible, K8s, AWS, Linux, Scripting (Bash), Git**
+- 💬 Ask me about **Docker, Terraform, Ansible, K8s, AWS, Linux, Git**
 
 - 📫 How to reach me **shubhamadlinge2001@gmail.com**
 
@@ -16,10 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/shubham adlinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham adlinge" height="30" width="40" /></a>
 </p>
-
-<h2>🛠️ Tools & Technologies</h2>
-<p>Here are some of the key tools and technologies I work with:</p>
-
 <h2>🛠️ Tools & Technologies</h2>
 <p>Here are some of the key tools and technologies I work with:</p>
 
