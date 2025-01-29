@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shubham Adlinge</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
-<br>
+## 👨‍💻 About Me
+---
+Shubham Adlinge
+I'm a DevOps Engineer with a passion for cloud computing, automation, and building scalable applications. I focus on improving CI/CD pipelines, containerization, and using infrastructure as code to make systems more efficient and reliable. I'm always learning new technologies and love working with great teams to deliver projects that make a real impact. I enjoy finding solutions that help businesses grow and improve their tech.
+
 <img align="right" src="https://www.shutterstock.com/shutterstock/videos/3575693171/thumb/12.jpg?ip=x480" alt="DevOps Diagram" width="480">
 
 
