@@ -17,9 +17,9 @@
 <a href="https://linkedin.com/in/shubham adlinge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham adlinge" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Tools & Technologies:
-| Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
-|----------|----------|----------|----------|------|------|------|-------|------|------|-------|
+<h2>🛠️ Tools & Technologies</h2>
+<p>Here are some of the key tools and technologies I work with:</p>
+
 <table>
   <tr>
     <td><a href="https://www.linux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/></a></td>
@@ -30,9 +30,12 @@
     <td><a href="https://ubuntu.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/></a></td>
     <td><a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/></a></td>
-    <td><a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/></a></td>
+    <td><a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/></a></td>
   </tr>
 </table>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamadlinge&show_icons=true&locale=en&layout=compact" alt="shubhamadlinge" /></p>
