@@ -9,7 +9,7 @@ I'm a DevOps Engineer with a passion for cloud computing, automation, and buildi
 
 - 💬 Ask me about **Docker, Terraform, Ansible, K8s, AWS, Linux, Git**
 
-- 📫 How to reach me **shubhamadlinge2001@gmail.com**
+- 📫 How to reach me **shubhamsadlinge@gmail.com**
 
 ## 🌐 Connect with Me:
 
