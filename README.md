@@ -5,8 +5,6 @@ I'm a DevOps Engineer with a passion for cloud computing, automation, and buildi
 ---
 
 
-- 🌱 I’m currently learning **Azure, GCP, Python, Monitoring & Logging (Prometheus, Grafana)**
-
 - 💬 Ask me about **Docker, Terraform, Ansible, K8s, AWS, Linux, Git**
 
 - 📫 How to reach me **shubhamsadlinge@gmail.com**
